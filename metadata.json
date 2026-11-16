@@ -1,0 +1,6 @@
+{
+  "name": "Amstel Grand — Casino Hotels Netherlands",
+  "description": "Modern five-star casino hotels across Amsterdam, Scheveningen, Rotterdam, and Maastricht offering waterfront suites, licensed gaming salons, and coastal dining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
